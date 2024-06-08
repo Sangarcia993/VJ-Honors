@@ -82,7 +82,7 @@ def StartScene():
     player = Player(SCREEN_WIDTH, SCREEN_HEIGHT)
     Ability_use_time = 0
     exp_requirments = [100, 100, 200, 400, 500, 600, 1000, 1500, 2000, 1000, 10000000]
-    exp_requirments = [10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10000000]
+    #exp_requirments = [10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10000000]
 
 
     ''' 4.- contenedores de enemigos y jugador'''
